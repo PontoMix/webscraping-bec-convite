@@ -1,0 +1,11 @@
+❗FAZER SEMANA QUE VEM❗
+
+👀PEGAR E UNIR AS DUAS TABELAS CRIADAS (DETALHES CONVITES E TABELA CONVITES) 
+
+🤔TRÊS FORMAS:
+
+1ª Pegar os valores que estão sendo salvos na lista result_all_ocs e colocar em um buffer (unir) junto com os valores sendo salvos na lista details_info_invitation;
+
+2ª Pegar os valores que estão sendo salvos na lista result_all_ocs e não salvar nela, mas sim no details_infos_invitation;
+
+3ª Pegar os valores que estão sendo salvos na lista result_all_ocs e não salvar nela, mas sim no details_infos_invitation. E para isso, pegar a quantidade de linhas por colunas (pegar uma para verificar o comprimento), e fazer com que seja repetido em todas as linhas.
