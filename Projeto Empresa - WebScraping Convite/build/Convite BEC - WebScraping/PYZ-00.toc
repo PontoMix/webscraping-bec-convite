@@ -1,7 +1,5 @@
-('C:\\Users\\Dev_P\\OneDrive - Ponto Mix Comercial e '
- 'Serviços\\Miscelânea\\Programas\\Ferramentas - BEC\\Webscraping - '
- 'Licitações\\Convite\\Projeto Empresa - WebScraping Convite\\build\\Convite '
- 'BEC - WebScraping\\PYZ-00.pyz',
+('C:\\WebScraping Licitações - Convite\\Projeto Empresa - WebScraping '
+ 'Convite\\build\\Convite BEC - Webscraping\\PYZ-00.pyz',
  [('__future__',
    'C:\\Program Files\\Python311\\Lib\\__future__.py',
    'PYMODULE'),
@@ -26,9 +24,7 @@
    'C:\\Program Files\\Python311\\Lib\\_threading_local.py',
    'PYMODULE'),
   ('allopenconvites',
-   'C:\\Users\\Dev_P\\OneDrive - Ponto Mix Comercial e '
-   'Serviços\\Miscelânea\\Programas\\Ferramentas - BEC\\Webscraping - '
-   'Licitações\\Convite\\Projeto Empresa - WebScraping '
+   'C:\\WebScraping Licitações - Convite\\Projeto Empresa - WebScraping '
    'Convite\\allopenconvites.py',
    'PYMODULE'),
   ('argparse', 'C:\\Program Files\\Python311\\Lib\\argparse.py', 'PYMODULE'),
@@ -162,15 +158,11 @@
    'C:\\Program Files\\Python311\\Lib\\concurrent\\futures\\thread.py',
    'PYMODULE'),
   ('config',
-   'C:\\Users\\Dev_P\\OneDrive - Ponto Mix Comercial e '
-   'Serviços\\Miscelânea\\Programas\\Ferramentas - BEC\\Webscraping - '
-   'Licitações\\Convite\\Projeto Empresa - WebScraping '
+   'C:\\WebScraping Licitações - Convite\\Projeto Empresa - WebScraping '
    'Convite\\config\\__init__.py',
    'PYMODULE'),
   ('config.database',
-   'C:\\Users\\Dev_P\\OneDrive - Ponto Mix Comercial e '
-   'Serviços\\Miscelânea\\Programas\\Ferramentas - BEC\\Webscraping - '
-   'Licitações\\Convite\\Projeto Empresa - WebScraping '
+   'C:\\WebScraping Licitações - Convite\\Projeto Empresa - WebScraping '
    'Convite\\config\\database.py',
    'PYMODULE'),
   ('configparser',
@@ -328,9 +320,7 @@
    'C:\\Users\\Dev_P\\AppData\\Roaming\\Python\\Python311\\site-packages\\et_xmlfile\\xmlfile.py',
    'PYMODULE'),
   ('filterconvites',
-   'C:\\Users\\Dev_P\\OneDrive - Ponto Mix Comercial e '
-   'Serviços\\Miscelânea\\Programas\\Ferramentas - BEC\\Webscraping - '
-   'Licitações\\Convite\\Projeto Empresa - WebScraping '
+   'C:\\WebScraping Licitações - Convite\\Projeto Empresa - WebScraping '
    'Convite\\filterconvites.py',
    'PYMODULE'),
   ('fractions', 'C:\\Program Files\\Python311\\Lib\\fractions.py', 'PYMODULE'),

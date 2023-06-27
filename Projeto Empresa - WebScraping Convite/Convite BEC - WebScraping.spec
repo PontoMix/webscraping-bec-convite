@@ -28,7 +28,7 @@ exe = EXE(
     a.zipfiles,
     a.datas,
     [],
-    name='Convite BEC - WebScraping',
+    name='Convite BEC - Webscraping',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
