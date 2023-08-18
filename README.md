@@ -28,3 +28,7 @@ Este guia fornecerá instruções sobre como executar o WebScraping de Licitaç�
 Lembre-se de que este guia pressupõe que você tenha conhecimento básico sobre o uso de computadores e navegação de arquivos. Certifique-se de seguir as diretrizes e políticas de uso da ferramenta, bem como as regulamentações aplicáveis ao scraping de dados.
 
 **Nota:** Certifique-se de que o arquivo executável "Convite BEC - WebScraping.exe" e seus arquivos de suporte estejam todos localizados dentro da pasta "Projeto Empresa - WebScraping Convite" antes de iniciar a ferramenta.
+
+**Problema para abrir o programa?**
+
+Verifique se seguiu os passos anteriores corretamente, se sim, baixe uma nova versão do Google Chrome Driver [https://chromedriver.chromium.org/downloads](https://chromedriver.chromium.org/downloads) (arquivo Windows ZIP), extraia e substitua dentro da pasta "Projeto Empresa - WebScraping Convite" os antigos arquivos pelos novos. 
